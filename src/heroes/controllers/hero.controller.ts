@@ -1,9 +1,8 @@
-import {Body, Controller, Delete, Get, Param, Post, Put} from '@nestjs/common';
+import {Body, Controller, Delete, Get, Param, Post, Put, Query} from '@nestjs/common';
 import {HeroesService} from '../heroes.service';
 import {CreateHeroDto} from '../dto/create-hero.dto';
 import {UpdateHeroDto} from '../dto/update-hero.dto';
 import {FindOneParams} from '../dto/find-one.dto';
-import {HeroesArgs} from '../dto/heroes.args';
 
 @Controller('heroes')
 export class HeroController {
@@ -15,8 +14,8 @@ export class HeroController {
     }
 
     @Get()
-    findAll(@Param() params?: HeroesArgs) {
-        return this.heroService.findAll(params);
+    findAll(@Query('limit') param?: string) {
+        return this.heroService.findAll(param);
     }
 
     @Get(':id')
