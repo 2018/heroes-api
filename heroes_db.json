@@ -1,6 +1,67 @@
-{"_id":{"$oid":"5d0946651f8c6a21749bb688"},"create_date":{"$date":{"$numberLong":"1560888933165"}},"name":"Thor","__v":{"$numberInt":"0"}}
-{"_id":{"$oid":"5d09467e1f8c6a21749bb689"},"create_date":{"$date":{"$numberLong":"1560888958371"}},"name":"Thanos","__v":{"$numberInt":"0"}}
-{"_id":{"$oid":"5d0946841f8c6a21749bb68a"},"create_date":{"$date":{"$numberLong":"1560888964859"}},"name":"Loki","__v":{"$numberInt":"0"}}
-{"_id":{"$oid":"5d09468b1f8c6a21749bb68b"},"create_date":{"$date":{"$numberLong":"1560888971247"}},"name":"Iron Man","__v":{"$numberInt":"0"}}
-{"_id":{"$oid":"5d0946961f8c6a21749bb68c"},"create_date":{"$date":{"$numberLong":"1560888982929"}},"name":"Hulk","__v":{"$numberInt":"0"}}
-{"_id":{"$oid":"5d09469c1f8c6a21749bb68d"},"create_date":{"$date":{"$numberLong":"1560888988278"}},"name":"Captain America","__v":{"$numberInt":"0"}}
+[{
+  "_id": {
+    "$oid": "602987410a15d617780cafc8"
+  },
+  "name": "IRON MAN",
+  "full_name": "TONY STARK",
+  "thumb": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/002irm_ons_crd_03.jpg",
+  "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/002irm_ons_mas_dsk_03.jpg",
+  "description": "Genius. Billionaire. Philanthropist. Tony Stark's confidence is only matched by his high-flying abilities as the hero called Iron Man.",
+  "__v": 0,
+  "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla pulvinar eleifend sem. Praesent dapibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Integer lacinia. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Vivamus ac leo pretium faucibus. In convallis. Etiam neque. Curabitur ligula sapien, pulvinar a vestibulum quis, facilisis vel sapien. Donec vitae arcu. Sed vel lectus. Donec odio tempus molestie, porttitor ut, iaculis quis, sem. Maecenas fermentum, sem in pharetra pellentesque, velit turpis volutpat ante, in pharetra metus odio a lectus. Nulla non arcu lacinia neque faucibus fringilla. Donec ipsum massa, ullamcorper in, auctor et, scelerisque sed, est. Fusce wisi. Phasellus rhoncus. Curabitur sagittis hendrerit ante."
+},{
+  "_id": {
+    "$oid": "602987500a15d617780cafc9"
+  },
+  "name": "CAPTAIN AMERICA",
+  "full_name": "STEVE ROGERS",
+  "thumb": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/003cap_ons_crd_03.jpg",
+  "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/003cap_ons_mas_dsk_02.jpg",
+  "description": "Recipient of the Super-Soldier serum, World War II hero Steve Rogers fights for American ideals as one of the world’s mightiest heroes and the leader of the Avengers.",
+  "__v": 0,
+  "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla pulvinar eleifend sem. Praesent dapibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Integer lacinia. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Vivamus ac leo pretium faucibus. In convallis. Etiam neque. Curabitur ligula sapien, pulvinar a vestibulum quis, facilisis vel sapien. Donec vitae arcu. Sed vel lectus. Donec odio tempus molestie, porttitor ut, iaculis quis, sem. Maecenas fermentum, sem in pharetra pellentesque, velit turpis volutpat ante, in pharetra metus odio a lectus. Nulla non arcu lacinia neque faucibus fringilla. Donec ipsum massa, ullamcorper in, auctor et, scelerisque sed, est. Fusce wisi. Phasellus rhoncus. Curabitur sagittis hendrerit ante."
+},{
+  "_id": {
+    "$oid": "6029875a0a15d617780cafca"
+  },
+  "name": "THOR",
+  "full_name": "THOR ODINSON",
+  "thumb": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/004tho_ons_crd_03.jpg",
+  "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/004tho_ons_mas_dsk_03.jpg",
+  "description": "The son of Odin uses his mighty abilities as the God of Thunder to protect his home Asgard and planet Earth alike.",
+  "__v": 0,
+  "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla pulvinar eleifend sem. Praesent dapibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Integer lacinia. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Vivamus ac leo pretium faucibus. In convallis. Etiam neque. Curabitur ligula sapien, pulvinar a vestibulum quis, facilisis vel sapien. Donec vitae arcu. Sed vel lectus. Donec odio tempus molestie, porttitor ut, iaculis quis, sem. Maecenas fermentum, sem in pharetra pellentesque, velit turpis volutpat ante, in pharetra metus odio a lectus. Nulla non arcu lacinia neque faucibus fringilla. Donec ipsum massa, ullamcorper in, auctor et, scelerisque sed, est. Fusce wisi. Phasellus rhoncus. Curabitur sagittis hendrerit ante."
+},{
+  "_id": {
+    "$oid": "602987c00a15d617780cafcb"
+  },
+  "name": "SPIDER-MAN",
+  "full_name": "PETER PARKER",
+  "thumb": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/005smp_ons_crd_02.jpg",
+  "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/005smp_ons_mas_mob_03.jpg",
+  "description": "Bitten by a radioactive spider, Peter Parker’s arachnid abilities give him amazing powers he uses to help others, while his personal life continues to offer plenty of obstacles.",
+  "__v": 0,
+  "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla pulvinar eleifend sem. Praesent dapibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Integer lacinia. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Vivamus ac leo pretium faucibus. In convallis. Etiam neque. Curabitur ligula sapien, pulvinar a vestibulum quis, facilisis vel sapien. Donec vitae arcu. Sed vel lectus. Donec odio tempus molestie, porttitor ut, iaculis quis, sem. Maecenas fermentum, sem in pharetra pellentesque, velit turpis volutpat ante, in pharetra metus odio a lectus. Nulla non arcu lacinia neque faucibus fringilla. Donec ipsum massa, ullamcorper in, auctor et, scelerisque sed, est. Fusce wisi. Phasellus rhoncus. Curabitur sagittis hendrerit ante."
+},{
+  "_id": {
+    "$oid": "602988510a15d617780cafcc"
+  },
+  "name": "HULK",
+  "full_name": "BRUCE BANNER",
+  "thumb": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/006hbb_ons_crd_03.jpg",
+  "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/006hbb_ons_mas_dsk_02_1.jpg",
+  "description": "Dr. Bruce Banner lives a life caught between the soft-spoken scientist he’s always been and the uncontrollable green monster powered by his rage.",
+  "__v": 0,
+  "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla pulvinar eleifend sem. Praesent dapibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Integer lacinia. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Vivamus ac leo pretium faucibus. In convallis. Etiam neque. Curabitur ligula sapien, pulvinar a vestibulum quis, facilisis vel sapien. Donec vitae arcu. Sed vel lectus. Donec odio tempus molestie, porttitor ut, iaculis quis, sem. Maecenas fermentum, sem in pharetra pellentesque, velit turpis volutpat ante, in pharetra metus odio a lectus. Nulla non arcu lacinia neque faucibus fringilla. Donec ipsum massa, ullamcorper in, auctor et, scelerisque sed, est. Fusce wisi. Phasellus rhoncus. Curabitur sagittis hendrerit ante."
+},{
+  "_id": {
+    "$oid": "602988f20a15d617780cafcd"
+  },
+  "name": "WAR MACHINE",
+  "full_name": "JAMES RHODES",
+  "thumb": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/042wmr_ons_crd_03.jpg",
+  "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/042wmr_ons_mas_dsk_04.jpg",
+  "description": "Military veteran James Rhodes is ready for combat in his advanced armor, adding a formidable arsenal to Tony Stark-created designs.",
+  "__v": 0,
+  "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla pulvinar eleifend sem. Praesent dapibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Integer lacinia. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Vivamus ac leo pretium faucibus. In convallis. Etiam neque. Curabitur ligula sapien, pulvinar a vestibulum quis, facilisis vel sapien. Donec vitae arcu. Sed vel lectus. Donec odio tempus molestie, porttitor ut, iaculis quis, sem. Maecenas fermentum, sem in pharetra pellentesque, velit turpis volutpat ante, in pharetra metus odio a lectus. Nulla non arcu lacinia neque faucibus fringilla. Donec ipsum massa, ullamcorper in, auctor et, scelerisque sed, est. Fusce wisi. Phasellus rhoncus. Curabitur sagittis hendrerit ante."
+}]

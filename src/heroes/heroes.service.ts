@@ -65,13 +65,11 @@ export class HeroesService {
         return val !== null ? <IHero>{
             id: val._id,
             name: val.name,
-            create_date: val.create_date
+            full_name: val.full_name,
+            thumb: val.thumb,
+            photo: val.photo,
+            description: val.description,
+            text: val.text
         } : null;
-    }
-
-    private handleResponse(res:any) {
-        return {
-            updated: _.get(res, 'lastErrorObject.updatedExisting')
-        };
     }
 }

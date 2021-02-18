@@ -2,5 +2,9 @@
 export class Hero {
     id: string;
     name: string;
-    create_date: Date;
+    full_name: string;
+    thumb: string;
+    photo: string;
+    description: string;
+    text: string;
 }
